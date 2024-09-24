@@ -1,6 +1,6 @@
 /* Varables */
 * {
-  --primaryColor: green;
+  --primaryColor: whitesmoke;
 }
 
 /* Gobal */
@@ -13,6 +13,8 @@ body {
 }
 
 header {
+  padding-left: 24px;
+  padding-right: 24px;
   display: flex;
   justify-content: space-between;
   align-items: center;
@@ -33,14 +35,20 @@ footer {
   display: flex;
   flex-direction: column;
   align-items: center;
+  padding-top: 24px;
+  padding-bottom: 24px;
+  background-color: whitesmoke;
 }
 
 footer > p {
   margin: 5px 0;
+  
 }
 
 section {
   min-height: 50vh;
+  margin-left: 24px;
+  margin-right: 24px;
 }
 
 /* Non-global */
