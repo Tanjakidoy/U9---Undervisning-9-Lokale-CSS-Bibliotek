@@ -1,3 +1,7 @@
-# U9---Undervisning-9-Lokale-CSS-Bibliotek
+Oppgave:
 
-[Edit in StackBlitz next generation editor ⚡️](https://stackblitz.com/~/github.com/Tanjakidoy/U9---Undervisning-9-Lokale-CSS-Bibliotek)
+Sett opp CSS variabler til farger
+Sett opp CSS variabler til font-familier
+Sett opp CSS variabler til CSS properties du bruker mye (for eksempel: flex, padding, font-size, osv)
+Sett opp CSS klasser til generelle elementer (header, main, footer, section, etc), som gjerne igjen tar i bruk CSS variabler du har satt opp.
+Lag en nettside med hjelp av ditt nye bibliotek
